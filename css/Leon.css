@@ -63,6 +63,7 @@ body {
 }
 .header .links {
   position: relative;
+  cursor: pointer;
 }
 .header .links:hover .icon span:nth-child(2) {
   width: 100%;
@@ -276,6 +277,7 @@ body {
 }
 .portfolio .portfolio-container .card {
   background-color: white;
+  cursor: pointer;
 }
 .portfolio .portfolio-container .card img {
   max-width: 100%;
