@@ -52,7 +52,7 @@ body {
 /* Start Header */
 .header {
   width: 100%;
-  heigth: 64px;
+  height: 64px;
   padding: 20px;
   position: fixed;
   z-index: 1;
